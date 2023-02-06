@@ -31,7 +31,7 @@ Get ready to meet Gunit Bindal ⚡️💻, your full-stack developer wizard! �
 - 💻Numpy: Harness the power of numerical computation with Numpy 🚀 
 - 💻Pandas: Make data analysis a breeze with Pandas 💥 
 
-### 💻 Full Stack Wizardry 🧙‍♂️
+## 💻 Full Stack Wizardry 🧙‍♂️
 - 🔥JavaScript Jedi: Code magic with the power of JavaScript 💫
 - 💪React.js Rulers: Build dynamic UIs with React 💪
 - 💥Vue.js Virtuoso: Create exceptional single-page applications 💥
